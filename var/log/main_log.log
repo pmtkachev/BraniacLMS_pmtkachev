@@ -4,3 +4,4 @@
 [2023-02-02 16:31:41,693] DEBUG mainapp.views (66) Yet another log message
 [2023-02-02 16:31:44,098] DEBUG mainapp.views (66) Yet another log message
 [2023-02-02 16:31:46,875] DEBUG mainapp.views (66) Yet another log message
+[2023-02-02 16:59:57,833] INFO mainapp.tasks (14) Send message: '{'user_id': '1', 'message': 'Hello World!'}'
