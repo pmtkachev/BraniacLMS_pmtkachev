@@ -1,0 +1,28 @@
+1675622545478	geckodriver	INFO	Listening on 127.0.0.1:43133
+1675622549366	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--remote-debugging-port" "42747" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilev0oAsp"
+Gtk-Message: 18:42:30.010: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 18:42:30.015: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+Gtk-Message: 18:42:30.215: Failed to load module "appmenu-gtk-module"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675622563284	geckodriver	INFO	Listening on 127.0.0.1:47889
+1675622565210	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--remote-debugging-port" "45781" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSMbG2M"
+Gtk-Message: 18:42:46.224: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 18:42:46.226: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+Gtk-Message: 18:42:46.273: Failed to load module "appmenu-gtk-module"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675622709759	geckodriver	INFO	Listening on 127.0.0.1:56951
+1675622710701	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--remote-debugging-port" "42035" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekz0Ywa"
+Gtk-Message: 18:45:11.347: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 18:45:11.380: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+Gtk-Message: 18:45:11.385: Failed to load module "appmenu-gtk-module"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675622722188	geckodriver	INFO	Listening on 127.0.0.1:39713
+1675622723217	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--remote-debugging-port" "55253" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemtgEf4"
+Gtk-Message: 18:45:23.815: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 18:45:23.816: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+Gtk-Message: 18:45:23.834: Failed to load module "appmenu-gtk-module"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
