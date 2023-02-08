@@ -26,3 +26,17 @@ Gtk-Message: 18:45:23.816: Not loading module "atk-bridge": The functionality is
 Gtk-Message: 18:45:23.834: Failed to load module "appmenu-gtk-module"
 [GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
 ATTENTION: default value of option mesa_glthread overridden by environment.
+1675875661738	geckodriver	INFO	Listening on 127.0.0.1:53133
+1675875663761	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--remote-debugging-port" "54621" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7JlrbL"
+Gtk-Message: 17:01:04.289: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 17:01:04.317: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+Gtk-Message: 17:01:04.333: Failed to load module "appmenu-gtk-module"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675875672461	geckodriver	INFO	Listening on 127.0.0.1:39809
+1675875673624	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--remote-debugging-port" "43719" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2lfzJe"
+Gtk-Message: 17:01:14.034: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 17:01:14.035: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+Gtk-Message: 17:01:14.038: Failed to load module "appmenu-gtk-module"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
